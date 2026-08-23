@@ -10,6 +10,13 @@
   </a>
 </p>
 
+<!-- Iconos de Lenguajes y Tecnologías destacados arriba -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,html,js,css,postgres,cs,python,nodejs&theme=dark" />
+  </a>
+</p>
+
 <div align="center">
 
   [![GitHub Followers](https://img.shields.io/github/followers/eugeniocvz222-sketch?style=for-the-badge&logo=github&labelColor=13171f&color=00f0ff)](https://github.com/eugeniocvz222-sketch?tab=followers)
